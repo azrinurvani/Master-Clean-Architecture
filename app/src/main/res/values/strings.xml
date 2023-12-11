@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Master Clean App Architecture</string>
+    <string name="sort_price">Sort Price</string>
+    <string name="coinimage">coinImage</string>
+    <string name="search_coin">Search Coin</string>
+    <string name="coin_name">Coin Name</string>
+    <string name="coin_description">Coin Description</string>
+    <string name="coin_price">Coin Price</string>
+    <string name="low_price">Low Price</string>
+    <string name="high_price">High Price</string>
+    <string name="coin_price_percent_change">Coin Price Percent Change</string>
+</resources>
